@@ -11,8 +11,7 @@ Repositório destinado a projetos desenvolvidos durante cursos da Alura, com foc
 Os projetos estão organizados por curso ou tema:
 
 /curso-nome  
-  ├── projeto-01  
-  ├── projeto-02  
+  ├── Logica de Programação - Com Java 
 
 ## 🛠 Tecnologias Utilizadas
 As tecnologias variam conforme o curso, podendo incluir:
